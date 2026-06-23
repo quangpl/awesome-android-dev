@@ -165,7 +165,7 @@ A curated list of the best libraries, tools, frameworks, and resources for moder
 ## Navigation
 
 - [Compose Destinations](https://github.com/raamcosta/compose-destinations) - KSP annotation-processing library for type-safe Jetpack Compose Navigation with zero boilerplate routing.
-- [Jetpack Navigation Compose](https://developer.android.com/guide/navigation/navigation-compose) - Official Jetpack Navigation component adapted for Jetpack Compose with a composable-first API.
+- [Jetpack Navigation Compose](https://developer.android.com/develop/ui/compose/navigation) - Official Jetpack Navigation component adapted for Jetpack Compose with a composable-first API.
 - [Voyager](https://github.com/adrielcafe/voyager) - Pragmatic Compose Multiplatform navigation library with screen model support, tab navigation, and nested stacks.
 
 ---
@@ -261,7 +261,7 @@ A curated list of the best libraries, tools, frameworks, and resources for moder
 
 - [Android Dev Reddit (r/androiddev)](https://www.reddit.com/r/androiddev) - Active developer community for discussing Android libraries, architecture decisions, and career topics.
 - [Kotlin Slack](https://kotlinlang.org/community/) - Official Kotlin community Slack workspace with channels for Android, KMP, Compose, and coroutines.
-- [Android Study Group](https://androidstudygroup.github.io) - Global community study group with reading lists and conference resources for Android developers.
+- [Android Developers on YouTube](https://www.youtube.com/@AndroidDevelopers) - Official Android YouTube channel with Now in Android, MAD Skills series, and conference talks.
 
 ---
 

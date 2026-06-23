@@ -2,7 +2,26 @@
 
 A curated list of the best libraries, tools, frameworks, and resources for modern Android development with Kotlin and Jetpack Compose in 2026. Covers everything from UI and architecture to testing, CI/CD, and community, with a focus on production-ready, actively maintained projects aligned with current Android Jetpack, Coroutines, Material 3, and Kotlin Multiplatform best practices.
 
-> **🚀 Sponsored by [Extension Booster](https://extensionbooster.net)**, the growth platform for app and extension developers. Track installs, ratings and competitors across Google Play and other marketplaces, get real reviews, and grow your apps. [Start free →](https://extensionbooster.net)
+<div align="center">
+
+<a href="https://extensionbooster.net">
+  <img src="https://extensionbooster.net/logo.webp" alt="Extension Booster" width="150" />
+</a>
+
+<h3>💎 &nbsp;DIAMOND SPONSOR&nbsp; 💎</h3>
+
+<p>
+  <b><a href="https://extensionbooster.net">Extension Booster</a></b><br/>
+  <sub>The growth platform for extension and app developers</sub>
+</p>
+
+<p>
+  <sub>⭐ Real reviews &nbsp;·&nbsp; 📊 Cross-marketplace analytics (Chrome · Edge · Android · Workspace) &nbsp;·&nbsp; 🔁 Manifest V2 to V3 converter</sub>
+</p>
+
+<a href="https://extensionbooster.net"><b>🚀 Start free at extensionbooster.net →</b></a>
+
+</div>
 
 ## Contents
 
@@ -259,9 +278,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding, removing, or up
 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work. See [LICENSE](LICENSE).
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Quang Phan.
 
 ---
 

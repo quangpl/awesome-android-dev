@@ -43,6 +43,7 @@ A curated list of the best libraries, tools, frameworks, and resources for moder
 - [Sample Open-Source Apps](#sample-open-source-apps)
 - [Kotlin Multiplatform and Cross-Platform](#kotlin-multiplatform-and-cross-platform)
 - [Communities, Newsletters, and Podcasts](#communities-newsletters-and-podcasts)
+- [Serialization](#serialization)
 - [Tools and Utilities](#tools-and-utilities)
 - [Contributing](#contributing)
 - [License](#license)
@@ -258,6 +259,17 @@ A curated list of the best libraries, tools, frameworks, and resources for moder
 - [Android Dev Reddit (r/androiddev)](https://www.reddit.com/r/androiddev) - Active developer community for discussing Android libraries, architecture decisions, and career topics.
 - [Kotlin Slack](https://kotlinlang.org/community/) - Official Kotlin community Slack workspace with channels for Android, KMP, Compose, and coroutines.
 - [Android Study Group](https://androidstudygroup.github.io) - Global community study group with reading lists and conference resources for Android developers.
+
+---
+
+## Serialization
+
+Libraries for JSON, Protocol Buffers, and type-safe data serialization.
+
+- [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) - Kotlin's official multiplatform, reflectionless serialization library with compiler-plugin support for JSON, Protobuf, CBOR, and more.
+- [Moshi](https://github.com/square/moshi) - Square's modern JSON library for Kotlin and Java with Kotlin codegen and a small, fast core.
+- [Gson](https://github.com/google/gson) - Google's long-established Java library for converting Java and Kotlin objects to and from JSON.
+- [Wire](https://github.com/square/wire) - Square's lightweight Protocol Buffers and gRPC implementation for Kotlin, Java, and Android.
 
 ---
 

@@ -1,5 +1,12 @@
 # Awesome Android Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center">
+  <a href="https://github.com/quangpl/awesome-android-dev/stargazers"><img src="https://img.shields.io/github/stars/quangpl/awesome-android-dev?style=flat-square&logo=github&color=gold" alt="Stars"></a>
+  <a href="https://github.com/quangpl/awesome-android-dev/commits/main"><img src="https://img.shields.io/github/last-commit/quangpl/awesome-android-dev?style=flat-square&color=blue" alt="Last commit"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="MIT License"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+</p>
+
 A curated list of the best libraries, tools, frameworks, and resources for modern Android development with Kotlin and Jetpack Compose in 2026. Covers everything from UI and architecture to testing, CI/CD, and community, with a focus on production-ready, actively maintained projects aligned with current Android Jetpack, Coroutines, Material 3, and Kotlin Multiplatform best practices.
 
 <div align="center">

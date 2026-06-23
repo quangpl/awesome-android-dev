@@ -96,6 +96,7 @@ A curated list of the best libraries, tools, frameworks, and resources for moder
 - [Material 3 (Material You)](https://m3.material.io) - Google's third-generation design system with dynamic colour, adaptive layouts, and Compose components.
 - [Material 3 Compose](https://developer.android.com/develop/ui/compose/designsystems/material3) - Official Jetpack Compose implementation of Material 3 components and theming.
 - [Showkase](https://github.com/airbnb/Showkase) - Annotation-processor library from Airbnb for cataloguing and browsing Compose UI components during development.
+- [Haze](https://github.com/chrisbanes/haze) - Library by Chris Banes for adding performant background blur and glassmorphism effects to Jetpack Compose UIs.
 
 ---
 
@@ -108,6 +109,8 @@ A curated list of the best libraries, tools, frameworks, and resources for moder
 - [Lifecycle](https://developer.android.com/topic/libraries/architecture/lifecycle) - Jetpack library for observing Android lifecycle events in a decoupled, observable way.
 - [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) - Jetpack library for loading and displaying large datasets incrementally from network or database sources.
 - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager) - Jetpack library for deferrable, guaranteed background work that respects battery and doze constraints.
+- [Circuit](https://github.com/slackhq/circuit) - Slack's Compose-driven architecture for Kotlin, presenting UI state through a unidirectional, testable, and navigable presenter pattern.
+- [Molecule](https://github.com/cashapp/molecule) - CashApp library for building reactive presentation logic with the Jetpack Compose runtime, turning Flows into Compose state.
 
 ---
 
